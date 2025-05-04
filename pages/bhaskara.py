@@ -10,7 +10,7 @@ def bhaskara(a, b, c):
     x = np.linspace(-10, 10, 400)
     y = a*x**2 + b*x + c
 
-    plt.plot(x, y, label=f'{a}x² + {b}x + {c}')
+    plt.plot(x, y, label=f'{a}x² + {b}x + {c}', color='blue', zorder=1)
     plt.axhline(0, color='gray', linestyle='--')
 
     if delta >= 0:
