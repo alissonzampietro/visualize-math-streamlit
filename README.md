@@ -1,6 +1,6 @@
 # Visualize Math
 
-[Project Running](https://visualize-math-app-agrpjd4ezq6zzhhhayjjqb.streamlit.app/)
+[Running Project](https://visualize-math-app-agrpjd4ezq6zzhhhayjjqb.streamlit.app/)
 
 
 ## How to run
